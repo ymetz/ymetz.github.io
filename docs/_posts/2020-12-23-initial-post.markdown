@@ -7,7 +7,7 @@ categories: announcements meta
 Welcome to my blog.
 
 
-To state the obvious:  Yes, I look just like another ML tech bro, paired with an optimistic look into the future, we're fine-attitude and entrepreneurial spirit. And let's be honest: That is pretty much true.
+To state the obvious:  Yes, I seem just like another ML tech bro, paired with an optimistic look into the future, we're fine-attitude and entrepreneurial spirit. And let's be honest: That is pretty much true.
 On the other hand, I would claim to bring the right amount of disillusionment, lacking self-confidence, and outsider view (mostly because I'm not a silicon valley/NA university insider) to the table. Thus I hope I can provide some fresh take.
 I guess it's only fair then to accompany this spirit with both grounded and completely unrealistic goals for this blog:
 - Presenting interesting ideas and perspectives influenced by my work and research.
