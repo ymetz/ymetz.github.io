@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Initial Post"
+title:  "Welcome"
 date:   2020-12-23 17:04:20 +0100
 categories: announcements meta
 ---
