@@ -1,0 +1,19 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+<h1> My projects </h1>
+
+<p>Here i present my personal projects</p>
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
