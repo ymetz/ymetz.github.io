@@ -28,6 +28,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+social_links:
+  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=AhpvfdIAAAAJ" }
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
